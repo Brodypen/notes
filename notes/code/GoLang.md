@@ -1,6 +1,5 @@
 ---
 title: GoLang
-date: Invalid date
 draft: false
 description: Description of the page used for link previews. Delete this if not wanted
 tags:

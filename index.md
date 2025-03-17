@@ -20,6 +20,7 @@ Welcome to 86 Neurons!
 
 </div>
 
+Hey hey hey, I'm always learning :D!
 ## About me
 
 Hi, I'm Brody. I graduated from the University of Houston with a degree in Computer Science and a minor in Mathematics. I work as a full-stack software engineer and enjoy learning new things every day.
@@ -40,7 +41,7 @@ I hate stackoverflow, one of the key reason. "You see a post from 8 years ago, w
 ## Why Online?
 
 Growing up on taking notes in scientific composition journal, this was a way to go back to my roots.
-Inspired by Building in Public and TIL, I wanted a way to help others by documenting my path through life and growing as a problem solver.
+Inspired by Building in Public and TILs, I wanted a way to help others by documenting my path through life and growing as a problem solver.
 
 ## Ok, so, what next?
 

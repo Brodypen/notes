@@ -20,8 +20,7 @@ Welcome to 86 Neurons!
 
 </div>
 
-Hey hey hey, I'm always learning :D!
-Wow this is a great workflow!
+Testing github actions source.
 ## About me
 
 Hi, I'm Brody. I graduated from the University of Houston with a degree in Computer Science and a minor in Mathematics. I work as a full-stack software engineer and enjoy learning new things every day.

@@ -9,8 +9,8 @@ Current learning goals for **2025**:
 
 Each goal will be allocated about 60/90 mins per day, and only two goals per day.
 
-1. [[02 - Areas/code/system-design/index|System Design]] - Practical long term knowledge
-2. [[02 - Areas/code/swift/index|Swift]] - Dive into iOS development.
-3. [[02 - Areas/code/python/index|Python]] - Automation, wide adoption and popularity.
+1. [[notes/02 - Areas/code/system-design/index|System Design]] - Practical long term knowledge
+2. [[notes/02 - Areas/code/swift/index|Swift]] - Dive into iOS development.
+3. [[notes/02 - Areas/code/python/index|Python]] - Automation, wide adoption and popularity.
 
 See ya, <a target="_blank" rel="noopener noreferrer" href="https://www.brodypen.com/">--Brody<a>

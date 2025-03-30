@@ -33,9 +33,8 @@ A personal knowledge Hub, a second Brain. Inspired by Tiego Forte, and using Obs
 ### 86 Neurons
 
 So much information, GB of information processed daily concuisonusly, do you know what you did a year ago? a month ago? how about in the last hour?
-We process so much information but fail to retain a lot of it. This is okay, because most of it is unimportant, but what happens if we miss a key fact thats important to others, a important meeting, or something that can help others?
 
-I hate stackoverflow, one of the key reason. "You see a post from 8 years ago, with no fix, or worst a comment saying "Oh! I fixed this"
+We process so much information but fail to retain a lot of it. This is okay, because most of it is unimportant, but what happens if we miss a key fact thats important to others, a important meeting, or something that can help others?
 
 ## Why Online?
 
@@ -44,7 +43,7 @@ Inspired by Building in Public and TILs, I wanted a way to help others by docume
 
 ## Ok, so, what next?
 
-Check my [[posts|Recent Writing]] to see somethings I been really thinking about and [[notes|Recent Notes]] to see some sparks of thoughts I been having.
+Check my [[posts/index|Recent Writing]] to see somethings I been really thinking about and [[notes/index|Recent Notes]] to see some sparks of thoughts I been having.
 
 Thank you for checking me out.
 

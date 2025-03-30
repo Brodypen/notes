@@ -7,3 +7,4 @@ tags:
 ---
 ![](https://youtu.be/rAkerV8rlow?si=2tJsTx6hkkpfPbuA)
 
+Used for designing notes structure.

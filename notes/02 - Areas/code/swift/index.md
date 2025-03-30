@@ -7,4 +7,8 @@ tags:
 ---
 Swift like a river...
 
+Learnings:
+Stanford CS193p
+100 Days of Swift
+
 See ya, <a target="_blank" rel="noopener noreferrer" href="https://www.brodypen.com/">--Brody<a>

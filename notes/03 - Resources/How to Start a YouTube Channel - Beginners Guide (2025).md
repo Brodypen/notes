@@ -5,3 +5,5 @@ draft: false
 tags:
 ---
 ![](https://www.youtube.com/watch?v=meMJdfytNI0)
+
+This was used for youtube information, took some advice.

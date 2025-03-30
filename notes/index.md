@@ -5,6 +5,12 @@ draft: false
 description: Description of the page used for link previews. Delete this if not wanted
 tags:
 ---
-Feel free to learn more at [[March-17-2025]]
+Current learning goals for **2025**:
+
+Each goal will be allocated about 60/90 mins per day, and only two goals per day.
+
+1. [[content/notes/02 - Areas/code/system-design/index|System Design]] - Practical long term knowledge
+2. [[content/notes/02 - Areas/code/swift/index|Swift]] - Dive into iOS development.
+3. [[content/notes/02 - Areas/code/python/index|Python]] - Automation, wide adoption and popularity.
 
 See ya, <a target="_blank" rel="noopener noreferrer" href="https://www.brodypen.com/">--Brody<a>

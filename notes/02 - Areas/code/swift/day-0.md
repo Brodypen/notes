@@ -1,16 +1,17 @@
 ---
-title: Untitled
+title: day 0
 date: 2025-03-30
 draft: false
-description: Description of the page used for link previews. Delete this if not wanted
+description: day 0 of swift
 tags:
 ---
 ---
-> [!note] Under Construction
+> [!note] Big ideas
 > 
-> This is a note being built!
+> Be consistent. 1 Hour daily.
 
-
+Swift is popular for iOS and is a modern language that came out in 2014.
+Don't try to optimize for other courses, as long as your consistent you will make progress.
 
 See ya, 
 --Brody

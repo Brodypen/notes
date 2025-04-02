@@ -13,6 +13,7 @@ tags:
 ## Basics 0-14
 - [[day-0|Day 0]]
 - [[day-1|Day 1]]
+- [[day-2|Day 2]]
 
 See ya, 
 --Brody
